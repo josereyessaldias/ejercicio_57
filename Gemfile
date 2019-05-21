@@ -18,6 +18,8 @@ gem 'devise', git: 'https://github.com/plataformatec/devise.git'
 gem 'omniauth-facebook'
 gem 'cancancan'
 gem 'activeadmin'
+gem 'chartkick'
+gem 'groupdate'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
