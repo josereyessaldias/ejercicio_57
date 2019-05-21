@@ -1,8 +1,8 @@
 # README
 
-Mejoré el código de las rutas y habilité la posibilidad de registrar Colecciones y que tengan un dueño.
+Habilité ActiveAdmin (me costó muchísimo habilitarlo con cancancan funcioando). También instalé gemas chartkick y groupdate.
 
-repositorio heroku: https://ejercicio56.herokuapp.com
+repositorio heroku: https://ejercicio57.herokuapp.com
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
